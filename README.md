@@ -28,7 +28,7 @@ Note: At first open a root terminal & you must be clone in home directory.
 
 ## Screenshot
 
-<img src="https://raw.githubusercontent.com/darknethaxor/picture/main/Screenshot_20210110-132518-picsay.png">
+<img src="https://raw.githubusercontent.com/darknethaxor/picture/main/Capture.PNG">
 <br>
 <br>
 <h3>Thanks For Suport Us</h3>
