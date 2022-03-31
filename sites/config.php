@@ -1,0 +1,5 @@
+<?php
+
+$RedirectUrl = "https://"; 
+
+?>
