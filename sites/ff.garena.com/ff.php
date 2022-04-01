@@ -1,9 +1,0 @@
-<html lang="sg_en" style="font-size: 102.324px; height: 969px; width: 1365px;"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no,viewport-fit=cover"><title>Zendesk Login Site</title><link rel="shortcut icon" type="image/png" href="favicon.png"><link href="static/css/main.ae76d67acf37435e83b9.css" rel="stylesheet"></head><body><div id="app"><div class="content"><div class="home-background"></div> <div class="ff-logo"></div> <div class="container"><div class="title">FF CUSTOMER SERVICE</div> <div class="subtitle">Please login to your Free Fire account</div> <div class="options"><a href="flogin.php"><button class="btn-facebook"></button></a> <button class="btn-vk"></button> <a href="glogin.php"><button class="btn-google"></button></a> <button class="btn-huawei"></button> <button class="btn-apple"></button> <button class="btn-twitter"></button></div> <div class="link">
-    Ensure that you link your Free Fire account to be able to submit a
-    ticket
-  </div></div> <div class="note">
-  *Our support is limited to and will only entertain requests in English
-  Language.
-</div> <footer><div class="garena"></div> <div class="copyright"><p>Copyright © Garena International.</p> <p>
-      Trademarks belong to their respective owners. All rights Reserved.
-    </p></div></footer></div> <div class="v-portal" style="display: none;"></div></div><script type="text/javascript" src="static/js/vendors~main.49c73d28a219dfe919b3.jss"></script><script type="text/javascript" src="static/js/main.6c5df6dee952ffdf0926.jss"></script><div class="vue-portal-target"></div></body></html>
