@@ -30,7 +30,7 @@ Note: At first open a root terminal & you must be clone in home directory.
 
 <img src="https://raw.githubusercontent.com/darknethaxor/picture/main/Capture.PNG" width="100%">
 <br>
-<img src="https://raw.githubusercontent.com/darknethaxor/picture/main/Capture2.PNG" width="100%">
+<img src="https://raw.githubusercontent.com/darknethaxor/picture/main/Capture1.PNG" width="100%">
 <br>
 <img src="https://raw.githubusercontent.com/darknethaxor/picture/main/Capture3.PNG" width="100%">
 <br>
