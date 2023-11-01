@@ -16,11 +16,11 @@ You are solely responsible for any actions you perform using this tool. It is cr
 * `node haxor`
   
 ## For Custom Page
-### Send submit for next page:
+#### Send submit for next page:
 
-change your code form action `action="data:Your_Location"`
+change your code on form tag `action="data:Your_Location"`
 
-### Example:
+#### Example:
 ```
 <form action="data:NextPage.html">
   //The rest code here
