@@ -23,17 +23,21 @@ change your code on form tag `action="data:Your_Location"`
 #### Example:
 ```
 <form action="data:NextPage.html">
+
   //The rest code here
+
 </form>
 ```
 
 #### Receive submit data:
 ```
 //Getting Previous Page data
+
 data = search_params.get('r');
 data = decode(data);
  
 // Parse the JSON data to an object
+
 jsonData = JSON.parse(data);
 ```
 
