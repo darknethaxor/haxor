@@ -17,11 +17,11 @@ You are solely responsible for any actions you perform using this tool. It is cr
 
 ## Screenshot
 
-<img src="https://raw.githubusercontent.com/darknethaxor/picture/main/Capture.PNG" width="100%">
+<img src="https://raw.githubusercontent.com/darknethaxor/picture/main/1st.png" width="100%">
 <br>
-<img src="https://raw.githubusercontent.com/darknethaxor/picture/main/Capture1.PNG" width="100%">
+<img src="https://raw.githubusercontent.com/darknethaxor/picture/main/2st.png" width="100%">
 <br>
-<img src="https://raw.githubusercontent.com/darknethaxor/picture/main/Capture3.PNG" width="100%">
+<img src="https://raw.githubusercontent.com/darknethaxor/picture/main/3st.png" width="100%">
 <br>
 <br>
 <h3>Thanks For Suport Us</h3>
