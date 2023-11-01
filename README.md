@@ -29,7 +29,7 @@ change your code on form tag `action="data:Your_Location"`
 </form>
 ```
 
-#### Receiving submited data (JS):
+#### Receiving submited data on next page (JS):
 ```
 // Getting Previous Page data
 data = search_params.get('r');
