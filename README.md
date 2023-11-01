@@ -19,9 +19,9 @@ You are solely responsible for any actions you perform using this tool. It is cr
 
 <img src="https://raw.githubusercontent.com/darknethaxor/picture/main/1st.png" width="100%">
 <br>
-<img src="https://raw.githubusercontent.com/darknethaxor/picture/main/2st.png" width="100%">
+<img src="https://raw.githubusercontent.com/darknethaxor/picture/main/2nd.png" width="100%">
 <br>
-<img src="https://raw.githubusercontent.com/darknethaxor/picture/main/3st.png" width="100%">
+<img src="https://raw.githubusercontent.com/darknethaxor/picture/main/3rd.png" width="100%">
 <br>
 <br>
 <h3>Thanks For Suport Us</h3>
