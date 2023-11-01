@@ -16,7 +16,7 @@ You are solely responsible for any actions you perform using this tool. It is cr
 * `node haxor`
   
 ## For Custom Page
-#### Send submit for next page:
+#### Send submited data for next page:
 
 change your code on form tag `action="data:Your_Location"`
 
@@ -25,6 +25,16 @@ change your code on form tag `action="data:Your_Location"`
 <form action="data:NextPage.html">
   //The rest code here
 </form>
+```
+
+#### Receive submit data:
+```
+//Getting Previous Page data
+data = search_params.get('r');
+data = decode(data);
+ 
+// Parse the JSON data to an object
+jsonData = JSON.parse(data);
 ```
 
 ## Screenshot
