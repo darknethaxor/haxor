@@ -14,6 +14,17 @@ You are solely responsible for any actions you perform using this tool. It is cr
 * `git clone https://github.com/darknethaxor/haxor.git` 
 * `cd haxor`
 * `node haxor`
+  
+## For Custom Page
+# Send submit for next page:
+
+change your code form action `action="data:Your_Location"`
+
+# Example:
+`<form action="data:NextPage.html">
+  //The rest code here
+</form>
+`
 
 ## Screenshot
 
