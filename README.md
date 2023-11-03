@@ -10,7 +10,7 @@ You are solely responsible for any actions you perform using this tool. It is cr
 #### Turmux
 * `pkg update` 
 * `pkg upgrade -y` 
-* `apt-get install git php nodejs -y`
+* `pkg install git php nodejs -y`
 * `npm install axios readline unzipper fs clear path cli-progress util child_process`
 * `git clone https://github.com/darknethaxor/haxor.git` 
 * `cd haxor`
