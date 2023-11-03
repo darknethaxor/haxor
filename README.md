@@ -5,10 +5,18 @@ This tool is intended for legal and ethical use only. Any unauthorized use, incl
 
 You are solely responsible for any actions you perform using this tool. It is crucial to comply with all relevant laws, regulations, and ethical standards when using this.
 
-## Installation  for Termux and Linux: 
+## Installation: 
 
-* `apt-get update` 
-* `apt-get upgrade -y` 
+#### Turmux
+* `pkg update` 
+* `pkg upgrade -y` 
+* `apt-get install git php nodejs -y`
+* `npm install axios readline unzipper fs clear path cli-progress util child_process`
+* `git clone https://github.com/darknethaxor/haxor.git` 
+* `cd haxor`
+* `node haxor`
+
+#### Linux
 * `apt-get install git php nodejs -y`
 * `npm install axios readline unzipper fs clear path cli-progress util child_process`
 * `git clone https://github.com/darknethaxor/haxor.git` 
