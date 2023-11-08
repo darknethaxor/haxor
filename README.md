@@ -57,4 +57,4 @@ jsonData = JSON.parse(data);
 <img src="https://raw.githubusercontent.com/darknethaxor/picture/main/3rd.png" width="100%">
 <br>
 <br>
-<h3>Thanks For Suport Us</h3>
+<h3>Thanks For Suport Us ❤️</h3>
