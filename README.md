@@ -7,7 +7,7 @@ You are solely responsible for any actions you perform using this tool. It is cr
 
 ## Installation: 
 
-#### Turmux
+#### Termux
 * `pkg update` 
 * `pkg upgrade -y` 
 * `pkg install git php nodejs -y`
@@ -17,6 +17,7 @@ You are solely responsible for any actions you perform using this tool. It is cr
 * `node haxor`
 
 #### Linux
+* `pkg update` 
 * `apt-get install git php nodejs -y`
 * `npm install axios readline unzipper fs path cli-progress util child_process`
 * `git clone https://github.com/darknethaxor/haxor.git` 
