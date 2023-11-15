@@ -50,11 +50,11 @@ jsonData = JSON.parse(data);
 
 ## Screenshot
 
-<img src="https://raw.githubusercontent.com/darknethaxor/picture/main/1st.png" width="100%">
+<img src="https://raw.githubusercontent.com/darknethaxor/picture/main/img1.png" width="100%">
 <br>
-<img src="https://raw.githubusercontent.com/darknethaxor/picture/main/2nd.png" width="100%">
+<img src="https://raw.githubusercontent.com/darknethaxor/picture/main/img2.png" width="100%">
 <br>
-<img src="https://raw.githubusercontent.com/darknethaxor/picture/main/3rd.png" width="100%">
+<img src="https://raw.githubusercontent.com/darknethaxor/picture/main/img3.png" width="100%">
 <br>
 <br>
 <h3>Thanks For Suport Us ❤️</h3>
